@@ -21,6 +21,12 @@ If you click "Deploy to Netlify" button, it will create a new repo for you that 
 
 ## Getting Started
 
+Install [OpenClaw](https://openclaw.ai):
+
+```bash
+curl -fsSL https://openclaw.ai/install.sh | bash
+```
+
 The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
 
 Run the Next.js development server:
